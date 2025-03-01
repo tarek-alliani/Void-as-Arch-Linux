@@ -261,6 +261,6 @@ Unmount Partitions:
 Reboot system: 
 `reboot`
 
-### HAVE A GOOD DAY ON VOIDLINUX :]
+### HAVE A GOOD DAY ON VOID LINUX :]
 
 
